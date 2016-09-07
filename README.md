@@ -1,2 +1,4 @@
 # Stock-Market-Analysis
-Python Project on Analyzing 4 different Tech company stocks.
+Analyzed 4 different big company stocks in Python.
+
+Course Project for Learning Python for Data Analysis and Visualization on Udemy.
