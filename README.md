@@ -1,4 +1,4 @@
-# Stock-Market-Analysis
+# Stock-Market-Analysis in Python
 Completed the stock market analysis and did the following things:
 
 Analysed 4 diffrent stocks and their correlation and visualized the result.
